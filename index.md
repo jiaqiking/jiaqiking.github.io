@@ -1,6 +1,6 @@
 <!-- ## Welcome to GitHub Pages -->
 
-### Wenxuan Tu
+### Jiaqi Jin
 
 <table class="imgtable">
   <tr>
