@@ -34,46 +34,10 @@
   
 
 ### Publications
-   <ul>
-    <li> 
-      <p  </p>
-    </li>
-  </ul>
-  
- <ul>
-    <li> 
-      <p  </p>
-    </li>
-  </ul> 
-  
-  <ul>
-    <li> 
-      <p  </p>
-    </li>
-  </ul> 
-  
-   <ul>
-    <li> 
-      <p  </p>
-    </li>
-  </ul> 
+   
 
 ### Awards
-  <ul>
-    <li> 
-      <p> </p>
-    </li>
-  </ul>
-  <ul>
-    <li> 
-      <p> </p>
-    </li>
-  </ul>
-<ul>
-    <li> 
-      <p> </p>
-    </li>
-  </ul>
+  
 
 ### Contact
 <p>Any discussions or concerns are welcomed! [jac517601@163.com]</p>
