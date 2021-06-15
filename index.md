@@ -26,14 +26,9 @@
       <p>[Sep 2020 - Now]. Doctor, National University of Defense Technology, Changsha, China </p>
     </li>
   </ul>
-<ul>
-    <li> 
-      <p>[Sep 2017 - Jul 2020]. Master, National University of Defense Technology, Changsha, China </p>
-    </li>
-  </ul>
   <ul>
     <li> 
-      <p>[Sep 2013 - Jul 2017]. Bachelor, National University of Defense Technology, Changsha, China </p>
+      <p>[Sep 2016 - Jul 2020]. Bachelor, National University of Defense Technology, Changsha, China </p>
     </li>
   </ul>
   
